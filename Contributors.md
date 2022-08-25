@@ -321,6 +321,7 @@ p3tun1a
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Titilola Shittu](https://github.com/lhorla)
 - [Amy Liu](https://github.com/Aliu9742)
+- [Kwakye Brilliant](https://github.com/kwakyebrilliant)
 - [Matthew Dunn] (https://github.com/pyr1te)
 - [Dimparar]
 - [Louka Tran](https://github.com/loukacodes)
